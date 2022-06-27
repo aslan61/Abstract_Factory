@@ -1,0 +1,14 @@
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.exe
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.deps.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.runtimeconfig.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.runtimeconfig.dev.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.csproj.AssemblyReference.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.AssemblyInfoInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.AssemblyInfo.cs
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.csproj.CoreCompileInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.genruntimeconfig.cache
